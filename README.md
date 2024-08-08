@@ -2,7 +2,7 @@
 
 meu nome é gabriel modesto 
 
--estou visitando a alura 
+- Estou estudando na ALura
 
 -estou desenvolvendo na linguagem javaScrpt
 
